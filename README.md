@@ -24,6 +24,6 @@
 
 11-Introduction to Big Data with Spark and Hadoop [Certificate](https://coursera.org/share/6c954c0b55fc77169346fb233eca7d71) [Note](https://github.com/carbotton/IBMDataEngineeringCoursera/blob/main/7.%20Introduction-to-Big-Data-with-Spark-and-Hadoop/7._introduction_to_big_data_with_spark_and_hadoop.pdf)
 
-12-Data Engineering and Machine Learning using Spark [finished, waiting for evaluation on course project](https://github.com/XYU1204/ibm-data-eng/blob/main/image.png) [Note]()
+12-Data Engineering and Machine Learning using Spark [Certificate](https://coursera.org/share/64518309cb5125b6b7c96cb0a282372a) [Note]()
 
 13-Data Engineering Capstone Project (in progress)
