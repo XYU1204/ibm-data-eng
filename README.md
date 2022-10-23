@@ -1,4 +1,4 @@
-## IBM Data Engineering Professional Certificate
+## IBM Data Engineering Professional Certificate [Certificate](https://coursera.org/share/415964ce24533bcf90195d2e766c497c)
 
 (Some of the notes are from https://github.com/carbotton/IBMDataEngineeringCoursera)
 
@@ -26,4 +26,4 @@
 
 12-Data Engineering and Machine Learning using Spark [Certificate](https://coursera.org/share/64518309cb5125b6b7c96cb0a282372a) [Note]()
 
-13-Data Engineering Capstone Project (in progress)
+13-Data Engineering Capstone Project [Certificate](https://coursera.org/share/d296d8b51daea30c6fd1b58447a609a8)
